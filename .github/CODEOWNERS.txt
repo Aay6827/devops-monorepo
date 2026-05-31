@@ -1,0 +1,7 @@
+# Global owners
+* @AayushTiwari
+
+# Service-specific owners
+/services/frontend/ @AayushTiwari
+/services/api/      @AayushTiwari
+/services/worker/   @AayushTiwari
